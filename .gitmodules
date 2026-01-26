@@ -1,0 +1,12 @@
+[submodule "modules/pci_xilinx"]
+	path = modules/pci_xilinx
+	url = git@gh.deepx.ai:deepx/rt_pcie_xilinx_linux_driver.git
+	branch = main
+[submodule "utils"]
+	path = utils
+	url = git@gh.deepx.ai:deepx/rt_pcie_utils.git
+	branch = main
+[submodule "modules/pci_deepx"]
+	path = modules/pci_deepx
+	url = git@gh.deepx.ai:deepx/dx_rt_pcie_deepx_linux_driver.git
+	branch = main
